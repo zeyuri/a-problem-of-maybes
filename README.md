@@ -40,3 +40,5 @@ Lets suppose we receives a given json:
 But now root division has been merged in to Anbu branch, but you have to change this data before you can show it your User Interface. 
 
 Oh, Danzõ is dead. So dont forget add the remaining members of root into the member count of Anbu.
+
+Important techinical detail: Our backend that serves this json don't make garantees abou the order of the `divisions` list.
